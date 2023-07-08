@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExampleClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>4142</Id>
+  <Name>Vlad</Name>
+  <Age>22</Age>
+</ExampleClass>
